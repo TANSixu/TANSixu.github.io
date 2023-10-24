@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sixu Tan"
+title                    : "Sixu Tan's Homepage"
 title_separator          : "-"
-name                     : &name "Sixu Tan"
-description              : &description "PhD student at UC Riverside"
+name                     : &name
+description              : &description
 url                      : https://TANSixu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/TANSixu/TANSixu.github.io"
@@ -80,40 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sixu Tan 谈思序"
+  name             : "Sixu Tan [谈思序]"
   avatar           : "sixutan_profile.jpg"
   bio              : "CS PhD student at UC Riverside"
-  location         : "Location"
+  location         : # "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : # "sixu.tan@email.ucr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100079184160883"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/TANSixu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sixu-tan-30145b226/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://space.bilibili.com/441612451"
   wikipedia        :
 
 
