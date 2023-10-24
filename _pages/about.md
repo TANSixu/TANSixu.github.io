@@ -14,9 +14,24 @@ I am a first year Ph.D. student at UC Riverside, fortunately advised by Prof. [Z
 Projects
 =====
 *SphericalTrack: Angle-based Compact 3D Motion Tracking System Using Acoustic Signal* [Demo](https://www.bilibili.com/video/BV1oL411Z7Wn)
+
 *IMU-based Smart Water Bottle* [Demo](https://www.bilibili.com/video/BV1sb4y1r7Gy)
 
 Teaching
 =====
-*CS305: Computer Networking, SUSTech, 22FA, Teaching Assistant* [Project](https://github.com/SUSTech-CS305-Fall22/CS305-Project-Skeleton)
-*CS202: Computer Architecture, SUSTech, 23SP, Teaching Assitant*
+*CS305: Computer Networking, SUSTech, FA22, Teaching Assistant* [Project](https://github.com/SUSTech-CS305-Fall22/CS305-Project-Skeleton)
+
+*CS202: Computer Architecture, SUSTech, SP23, Teaching Assitant*
+
+Personal
+=====
+Like basketball and swimming.
+
+Very much into photography and videomaking.
+
+Also passionate about languages and linguistics. Now speak:
+* Chinese Mandarin (Native)
+* English (Professional working proficiency)
+* Cantonese (Daily use proficiency)
+* Japanese (Elementary proficiency)
+* French (Beginner)

@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Southern University of Science and Technology (SUSTech), 2019-2023
-* Ph.D in University of California, Riverside, 2023-Present
+* B.S., Southern University of Science and Technology (SUSTech), 2019-2023
+* Exchange Student, University of California, Berkeley, 2022
+* Ph.D., University of California, Riverside, 2023-Present
 
 <!-- Work experience
 ======
